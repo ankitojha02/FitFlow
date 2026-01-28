@@ -1,4 +1,4 @@
-# Fitness Tracker 🏋️‍♂️
+# FitFlow 
 
 An open-source fitness tracking platform where developers learn, build, and contribute together.
 
@@ -59,6 +59,6 @@ Please read:
 
 ## 🧑‍💻 Getting Started
 ```bash
-git clone https://github.com/your-username/fitness-tracker.git
-cd fitness-tracker
+git clone https://github.com/your-username/FitFlow.git
+cd FitFlow
 Edit `.env` and add your Supabase credentials
