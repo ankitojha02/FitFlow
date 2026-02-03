@@ -7,7 +7,7 @@ This is an **MVP-first project** — features are added incrementally and tested
 ---
 ## 🎯 Why Contribute Here?
 
-This isn't just a repo —it's a **real-world project designed for learning and collaboration**. Whether you're looking to: 
+This isn't just a repo —it is a **real-world project designed for learning and collaboration**. Whether you're looking to: 
 
 - ✅ Make your first open-source contribution
 - ✅ Build experience with Java development (Spring-Boot)
@@ -30,7 +30,7 @@ This isn't just a repo —it's a **real-world project designed for learning and 
 
 ---
 
-## ✨ Features
+## ✨ Features 
 - Create workouts
 - Add exercises to workouts
 - Track sets, reps, duration
