@@ -21,7 +21,7 @@ This isn't just a repo —it is a **real-world project designed for learning and
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stacks
 - Backend: Spring Boot, JPA, MySQL
 - Frontend: React
 - Auth: JWT (planned)
